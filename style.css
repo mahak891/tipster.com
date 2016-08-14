@@ -1,0 +1,95 @@
+body {
+background: black;
+
+background-image:  url(jjj.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+color: white;
+font-size: 11px;
+font-family: Ubuntu, "Trebuchet MS", Trebuchet, Verdana, Helvetica, Arial, sans-serif;
+
+margin:auto;
+}
+
+A:link {
+	COLOR: #fff; TEXT-DECORATION: none;
+}
+A:visited {
+	COLOR: #fff; TEXT-DECORATION: none;
+}
+A:active {
+	COLOR: #fff; TEXT-DECORATION: none;
+	}
+A:hover {
+	COLOR: #DD861F; TEXT-DECORATION: none;
+	}
+
+
+
+.navigation {
+	letter-spacing: 1px;
+word-spacing:40px;
+font-weight: bold;
+	text-transform: uppercase;
+	font-size: large;
+	float: left;
+	text-align: left;
+/*	background-color: black; */
+	padding: 38px 15px 13px 15px;
+	margin-left: 4%;
+}
+
+.logo {
+	
+	text-align: right;
+	color: #fff;
+	font-size: 24px;
+	padding: 15px;
+}
+.logo em{
+	display:block;
+	text-align: right;
+	color: #3AC9AD;
+	font-weight: normal;
+	font-size: 10px;
+}
+
+.image {
+	background: url(photo_header.jpg);
+	background-repeat: no-repeat;
+	background-position: 100% 0%;
+	width: 100%;
+	height: 279px;
+}
+
+
+.upload{margin-top: 5%;
+margin-left: 2%;}
+
+input[type="submit"]{
+	background-color:#0E3558;
+	padding:0.5%;
+	border:1px solid #0E3558;
+	border-radius:2px;
+	color:#86CCCC;
+}
+.div1{ margin-top: 1%;
+       margin-left: -2%;
+}
+.div2{
+	 margin-left: -2%;
+    margin-top: 14.2%;
+    color: #0a3855;
+    font-size: 20px;
+	}
+
+input[type="file"]{
+	background-color: #0e3757;
+    
+    font-size: 16px;
+    width: 17%;
+    color: #b0d2d3;
+	
+}
