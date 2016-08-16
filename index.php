@@ -55,7 +55,8 @@ ul {
   float: left;
   border-radius: 4px;
   margin-top: 8px;
-  margin-left:46.5%;
+  margin-left:44.4%;
+  -webkit-margin-start: 46.7%;
 }
   li {
     float: left;
