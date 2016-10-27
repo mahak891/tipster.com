@@ -30,8 +30,8 @@ A:hover {
 
 .navigation {
 	letter-spacing: 1px;
-word-spacing:40px;
-font-weight: bold;
+    word-spacing:40px;
+    font-weight: bold;
 	text-transform: uppercase;
 	font-size: large;
 	float: left;
